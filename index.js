@@ -1,4 +1,5 @@
 var http = require("http"); 
+
 const port = 8000; 
 
 http.createServer(function(req, res) { 
@@ -7,6 +8,7 @@ http.createServer(function(req, res) {
     `<!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="styles.css">
     <title>A website about Me</title>
 </head>
 <body>

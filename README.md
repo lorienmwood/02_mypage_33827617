@@ -1,2 +1,3 @@
 # MyPage
-A small node.js web application 
+A node.js application 
+
