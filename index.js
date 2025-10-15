@@ -13,12 +13,17 @@ http
     <style>
     body {background-color: black;
     color: white;}
+    img {max-width: 40%;
+    height: auto;}
     </style>
 </head>
 <body>
-    <h1>Hello, I'm Lorien!</h1>
-    <h2> A Computer Science Student</h2>
-    <p>I study at Goldsmiths in London.</p>
+    <h1>Hello, this is my web page!</h1>
+    <h2>Hi, I'm Lorien!</h2>
+    <h2>I'm studying Computer Science at Goldsmiths, University of London.</h2>
+    <p>In my free time, I love hiking. Here are some trails on my bucket list.</p>
+    <img src="https://www.pcta.org/wp-content/uploads/2019/12/PCT-overview-map-on-2-pages-by-Magellan-pg1.v.1.2018.jpg" alt="PCT">
+
 </body>
 </html>`
     );
