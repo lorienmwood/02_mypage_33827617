@@ -18,8 +18,7 @@ http
     </style>
 </head>
 <body>
-    <h1>Hello, this is my web page!</h1>
-    <h2>Hi, I'm Lorien!</h2>
+    <h1>Hi, I'm Lorien!</h1>
     <h2>I'm studying Computer Science at Goldsmiths, University of London.</h2>
     <p>In my free time, I love hiking. Here are some trails on my bucket list.</p>
     <img src="https://www.pcta.org/wp-content/uploads/2019/12/PCT-overview-map-on-2-pages-by-Magellan-pg1.v.1.2018.jpg" alt="PCT">
