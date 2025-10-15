@@ -8,8 +8,11 @@ http.createServer(function(req, res) {
     `<!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="styles.css">
     <title>A website about Me</title>
+    <style>
+    body {background-color: darkgrey;
+    color: white;}
+    </style>
 </head>
 <body>
     <h1>Hello, I'm Lorien!</h1>
