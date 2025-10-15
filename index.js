@@ -10,9 +10,9 @@ http.createServer(function(req, res) {
     <title>A website about Me</title>
 </head>
 <body>
-    <h1>Hello, I'm Lorien!</h1>rm -rf .git
-    <h2>Computer Science Student</h2>
-    <p>I study at Goldsmiths in London. I enjoy hiking and exploring tech.</p>
+    <h1>Hello, I'm Lorien!</h1>
+    <h2> A Computer Science Student</h2>
+    <p>I study at Goldsmiths in London.</p>
 </body>
 </html>`);
     }).listen(port, function() { 
