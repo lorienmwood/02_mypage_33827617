@@ -13,8 +13,8 @@ http
     <style>
     body {background-color: black;
     color: white;}
-    img {max-width: 40%;
-    height: auto;}
+    img {max-width: 30%;
+    height: {max-height: 30%;}
     </style>
 </head>
 <body>
